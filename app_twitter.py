@@ -11,13 +11,13 @@ import re
 #Keys, secret keys and access tokens management.
 
 #Consumer API keys
-CONSUMER_KEY = "UNrNlLvKHNvjI9lHTWt6Om0ev"
-CONSUMER_SECRET = "LxsBdQfds1vVYGN3WyNgubOnwKVsFHjg7pwDuU7j8iupLZ4qID"
+CONSUMER_KEY = "HIdden"
+CONSUMER_SECRET = "Hidden"
 
 #Access token & access token secret
 
-OAUTH_TOKEN = "1026507956500582400-0bUI1EWTscYlgKOrkgInMNH0OfXA6l"
-OAUTH_TOKEN_SECRET = "1Yi2xlRZ4dlLYoQPnY2iJJqGhAhtQbMg5EIhcPIX8sNlY"
+OAUTH_TOKEN = "Hidden"
+OAUTH_TOKEN_SECRET = "HIdden"
 
 
 # Creating the authentication object
